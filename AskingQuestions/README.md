@@ -1,4 +1,5 @@
 # Learning through Dialog Interactions
+  OpenReview: https://openreview.net/forum?id=rkE8pVcle
 
 This project contains code for the dialog-based learning MemN2N setup in the following paper: "[Learning through Dialogue Interactions](https://openreview.net/pdf?id=rkE8pVcle)".
 
